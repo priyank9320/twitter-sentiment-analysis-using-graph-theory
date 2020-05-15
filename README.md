@@ -51,7 +51,7 @@ After doing the pre-processing the resulting table can have two issues that we i
 
 
 
- ![image-20200515103350667](media\image-20200515103350667.png)
+ ![image-20200515103350667](media/image-20200515103350667.png)
 
 
 
@@ -87,7 +87,7 @@ For example, a sub-event should ideally look like the adjacent image, where we c
 
 
 
-![image-20200515103428280](media\image-20200515103428280.png)
+![image-20200515103428280](media/image-20200515103428280.png)
 
 
 
@@ -121,7 +121,7 @@ This can be seen from the plots as well where we see some amount of clustering a
 
 Below are some of the images showing the problem of multiple sub-events in the same community(as we can see multiple clustering along time or very spread out tweets along time):
 
-![](media\image-20200515101901316.png)![](media\image-20200515101911743.png)
+![](media/image-20200515101901316.png)![](media/image-20200515101911743.png)
 
 
 
@@ -137,17 +137,17 @@ Since we are using a scatter plot which cannot show overlapping points visually 
 
 As in this method each sub-community will be relatively quite small in size, the number of tweets in each sub-community is also quite low.
 
-![image-20200515103834239](media\image-20200515103834239.png)
+![image-20200515103834239](media/image-20200515103834239.png)
 
 
 
 
 
-![image-20200515103935918](media\image-20200515103935918.png)
+![image-20200515103935918](media/image-20200515103935918.png)
 
 
 
-![image-20200515103953251](media\image-20200515103953251.png)
+![image-20200515103953251](media/image-20200515103953251.png)
 
 
 
@@ -173,7 +173,7 @@ The tweet cleaning package we used has several drawbacks and better cleaning of 
 
 
 
-![img](media\tweet-plot-full)
+![img](media/tweet-plot-full)
 
 ​							***Fig : Plot shows all the tweets present in EX stream and their sentiment magnitudes***
 
@@ -183,6 +183,6 @@ The tweet cleaning package we used has several drawbacks and better cleaning of 
 
 
 
-![img](media\tweet-plot-community)
+![img](media/tweet-plot-community)
 
 ***Fig : Plot showing some clustering in the tweets belonging since they belong to some of the major sub-communities in the network, tweets belonging to smaller sub-communities were deleted***
