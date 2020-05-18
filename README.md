@@ -185,4 +185,4 @@ The tweet cleaning package we used has several drawbacks and better cleaning of 
 
 ![img](media/tweet-plot-community)
 
-***Fig : Plot showing some clustering in the tweets belonging since they belong to some of the major sub-communities in the network, tweets belonging to smaller sub-communities were deleted***
+***Fig : Plot showing some clustering in the tweets since they belong to some of the major sub-communities in the network, tweets belonging to smaller sub-communities were deleted***
