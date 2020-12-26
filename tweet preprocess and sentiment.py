@@ -20,7 +20,7 @@ import pandas as pd
 
 
 import os
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "C:\\Users\\Priyank\\OneDrive\\Documents\\course material 2\\Digital media and social networks\\coursework\\key for google cloud services\\My First Project-bf127fc77e29.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "<JSON FILE FOR THE KEY>"
 os.environ
 
 
